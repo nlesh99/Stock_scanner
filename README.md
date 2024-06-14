@@ -133,4 +133,4 @@ Visualizes market capitalization by sector with a color gradient.
 2. **Tableau Dashboard Refresh**: Automatically updates after Redshift refresh.
 
 ## Contact
-For more information, contact [Your Name] at [Your Email Address].
+For more information, contact Nilesh at nileshchoudhary32@gmail.com.
